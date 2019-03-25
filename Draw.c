@@ -136,7 +136,7 @@ void Draw_Jupiter_A(float tmp, int pos){
 
 void Draw_Saturn_A(float tmp, int pos){
 	tmp = tmp/2217;
-	Planet_L(Transformation(pos, tmp, 40), 'A');
+	Planet_L(Transformation(pos, tmp, 40), 'S');
 }
 
 void Draw_Uranus_A(float tmp, int pos){
