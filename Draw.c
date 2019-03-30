@@ -150,6 +150,7 @@ void Draw_Neptune_A(float tmp, int pos){
 }
 
 void Draw_Ceinture_A(int pos){
+	float div = 20; // Number of asteroide
 	float step = 2*M_PI/div;
 	int x, y;
 	for (int i = 0; i < div; ++i)
