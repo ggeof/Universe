@@ -32,7 +32,7 @@
 	<ul>
 		<li> <i>g++ </i>: pour télécharger depuis le terminal : <code> sudo apt-get install g++ </code> </li>
 		<li> <i>ncurses </i>: pour télécharger depuis le terminal : <code> sudo apt-get install libncurses5-dev libncursesw5-dev </code></li>
-	<ul>
+	</ul>
 		
 <i>English Version</i>
 
@@ -67,4 +67,4 @@
 	<ul>
 		<li> <i>g++ </i>: for download from terminal : <code> sudo apt-get install g++ </code> </li>
 		<li> <i>ncurses </i>: for download from terminal : <code> sudo apt-get install libncurses5-dev libncursesw5-dev </code></li>
-	<ul>
+	</ul>
